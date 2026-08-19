@@ -1,0 +1,17 @@
+# C compiled executables
+a.out
+*.out
+
+# Compiled object files
+*.o
+
+# Executables
+*.exe
+q[0-9]*
+!q[0-9]*.c
+
+# Debug/build files
+*.d
+
+.vscode/
+
